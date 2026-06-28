@@ -1,167 +1,196 @@
 <h1 align="center">Hi 👋, I'm Avishka Akalanka</h1>
 
+<div align="center">
+<picture>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px">
+</picture>
+</div>
+
+<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot | Microservices</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AvishkaWPA&label=Profile%20views&color=0e75b6&style=flat" alt="avishkawpa" />
+</p>
+
+- 🔭 I’m currently studying at **University of Moratuwa**
+
+- 🤝 I’m looking to collaborate with **Software Industry**
+
+- 🌱 I’m currently learning **Distributed Systems, Software Architecture & Cloud Technologies**
+
+- 📫 How to reach me **avishkabiz123@gmail.com**
+
+---
+
+### <h2 align="center">👨‍💻 Languages and Tools</h2>
+
+<div>
+
+<picture>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
+
+<br />
+
+### 💻 Programming Languages
+
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)]()
+
+### 🌐 Frontend
+
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)]()
+[![React Native](https://img.shields.io/badge/-React_Native-black?style=flat&logo=react)]()
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)]()
+[![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat)]()
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
+[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)]()
+
+### ⚙ Backend
+
+[![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)]()
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)]()
+
+[![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat)]()
+[![Microservices](https://img.shields.io/badge/-Microservices-4285F4?style=flat)]()
+
+### 🗄 Databases
+
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)]()
+
+### 🔐 Authentication & Security
+
+[![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat)]()
+[![Azure AD](https://img.shields.io/badge/-Azure_AD-0078D4?style=flat&logo=microsoftazure&logoColor=white)]()
+[![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens)]()
+
+### ☁ Cloud & Messaging
+
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)]()
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)]()
+[![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)]()
+
+### 🚀 DevOps & Tools
+
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)]()
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)]()
+[![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=kibana&logoColor=white)]()
+
+### 🧪 Testing
+
+[![Apache JMeter](https://img.shields.io/badge/-Apache_JMeter-D22128?style=flat)]()
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)]()
+[![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)]()
+[![Rest Assured](https://img.shields.io/badge/-Rest_Assured-4CAF50?style=flat)]()
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
+
+<p align="center">
+<a href="https://github.com/AvishkaWPA">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AvishkaWPA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AvishkaWPA&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaWPA&theme=algolia" alt="GitHub Streak"/>
+</p>
+
+<br>
+
 <h3 align="center">
-Software Engineer | Java Backend Developer | Enterprise Software Engineering Enthusiast
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+Connect with me 🤝
 </h3>
 
 <p align="center">
-Final-year IT Undergraduate at the <b>University of Moratuwa</b> 🇱🇰 <br>
-Building scalable enterprise software with Java, Spring Boot, Microservices & Cloud Technologies.
-</p>
+<a href="https://www.linkedin.com/in/avishka-akalanka/" target="blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn"
+height="30"
+width="40" />
+</a>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AvishkaWPA&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year BSc (Hons) Information Technology Undergraduate
-- 💼 Software Engineer with enterprise experience in Healthcare Systems
-- 🔭 Currently working on **Context Augmented Flaky Test Identification using LLMs**
-- 🌱 Learning more about Distributed Systems & Software Architecture
-- 💬 Ask me about **Java, Spring Boot, Microservices, Keycloak, REST APIs, Redis, Kafka**
-- 📫 Reach me at **avishkabiz123@gmail.com**
-
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,sql" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" />
-<img src="https://cdn.simpleicons.org/keycloak" height="48"/>
-<img src="https://cdn.simpleicons.org/docker" height="48"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
-</p>
-
-### Database & Messaging
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" />
-</p>
-
-<p>
-<img src="https://cdn.simpleicons.org/apachekafka" height="48"/>
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws" />
-</p>
-
-### Testing
-
-- Apache JMeter
-- Selenium
-- Rest Assured
-- Cucumber
-- Test Automation
-
----
-
-# 💼 Experience
-
-### 🏥 HealthRecon Connect
-
-- Java & Spring Boot Backend Development
-- Microservices Architecture
-- REST API Development
-- Keycloak Authentication
-- Azure AD Integration
-- Redis Caching
-- Kafka Event Driven Communication
-- Docker
-- Jenkins CI/CD
-- Apache JMeter
-- Production Monitoring (Kibana)
-
-### 🌐 eBEYONDS
-
-- React Development
-- Progressive Web Apps
-- Firebase Push Notifications
-- BrowserStack Testing
-- Responsive UI Development
-
----
-
-# 🔬 Research
-
-### Context Augmented Flaky Test Identification and Classification Framework
-
-- Large Language Models
-- Software Testing
-- CI/CD
-- Runtime Context Analysis
-- Automated Test Reliability
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AvishkaWPA&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaWPA&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaWPA&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AvishkaWPA&theme=algolia&margin-w=15"/>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/avishka-akalanka">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://github.com/AvishkaWPA" target="blank">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+alt="GitHub"
+height="30"
+width="40" />
 </a>
 
 <a href="mailto:avishkabiz123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+alt="Email"
+height="30"
+width="40" />
 </a>
 
-<a href="https://github.com/AvishkaWPA">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://www.hackerrank.com/w.p.avishka" target="blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+alt="HackerRank"
+height="30"
+width="40" />
 </a>
 
-<a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
-<img src="https://cdn.simpleicons.org/medium" height="48"/>
+<a href="https://medium.com/@YOUR_USERNAME" target="blank">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"
+alt="Medium"
+height="30"
+width="40" />
 </a>
 
 </p>
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-
-### ⚡ "Building reliable enterprise software one commit at a time."
-
+<img src="https://github-profile-trophy.vercel.app/?username=AvishkaWPA&theme=algolia&margin-w=15&margin-h=15&column=4" />
 </p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvishkaWPA&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AvishkaWPA/AvishkaWPA/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=120&section=footer"/>
+
+</div>
