@@ -92,14 +92,5 @@
 [![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)]()
 [![Rest Assured](https://img.shields.io/badge/-Rest_Assured-4CAF50?style=flat)]()
 
-</div>
+</div
 
-<a href="https://medium.com/@YOUR_USERNAME" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"
-alt="Medium"
-height="30"
-width="40" />
-</a>
-
-</p>
