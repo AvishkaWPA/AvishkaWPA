@@ -160,31 +160,6 @@ width="40" />
 </a>
 
 </p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AvishkaWPA&theme=algolia&margin-w=15&margin-h=15&column=4" />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvishkaWPA&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AvishkaWPA/AvishkaWPA/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 <div align="center">
