@@ -94,63 +94,6 @@
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
-<h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
-
-<p align="center">
-<a href="https://github.com/AvishkaWPA">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AvishkaWPA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AvishkaWPA&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaWPA&theme=algolia" alt="GitHub Streak"/>
-</p>
-
-<br>
-
-<h3 align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
-Connect with me 🤝
-</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/avishka-akalanka/" target="blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn"
-height="30"
-width="40" />
-</a>
-
-<a href="https://github.com/AvishkaWPA" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-alt="GitHub"
-height="30"
-width="40" />
-</a>
-
-<a href="mailto:avishkabiz123@gmail.com">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-alt="Email"
-height="30"
-width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/w.p.avishka" target="blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-alt="HackerRank"
-height="30"
-width="40" />
-</a>
-
 <a href="https://medium.com/@YOUR_USERNAME" target="blank">
 <img align="center"
 src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"
